@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(224, 253, 7);
+    margin: 80px;
+}
+h1{
+    color: blue;
+    font-family: 'Arial';
+    text-align: center;
+}
+p.promo{
+    font-size: 18px;
+    font-weight: 200;
+    border-style: solid;
+    border-width: 2pt;
+    padding: 90 px;
+    border-color: rgb(218, 24, 34);
+   
+}
+img.Alam1{
+    width: 450px;
+}
+video{
+    
+    width: 450px;
+    height: auto;
+    
+}
